@@ -2,8 +2,8 @@
 CSE 465 Project
 
 
-Dataset can be downloaded [here](https://www.kaggle.com/rhammell/ships-in-satellite-imagery)
-Website link  [here](https://www.kaggle.com/rhammell/ships-in-satellite-imagery)
+Dataset can be downloaded (https://www.kaggle.com/rhammell/ships-in-satellite-imagery)
+Website link (https://www.kaggle.com/rhammell/ships-in-satellite-imagery)
 
 
 
